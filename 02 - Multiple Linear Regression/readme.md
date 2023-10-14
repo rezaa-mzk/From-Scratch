@@ -33,7 +33,7 @@ This code comprises these parts.
 
 ### Usage
 
-Just Clone the code subtitude your own dataset and run the code.
+Just clone the code subtitude your own dataset and run the code.
 
 ### Author
 
@@ -41,5 +41,3 @@ Just Clone the code subtitude your own dataset and run the code.
 
 
 ---
-
-*Note: Customize the readme file as needed, providing appropriate details about the code, its usage, and the author information.*
