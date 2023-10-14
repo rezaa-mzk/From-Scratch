@@ -12,7 +12,7 @@ This code implements multiple linear regression from scratch in Python. Multiple
 - **`Student_Performance.csv`**: Dataset containing student performance data. This dataset was obtained from Kaggle. You can find the dataset and its description using this link (https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression).
 
 ### Different Parts of Code
-This code comprises these parts.
+This code comprises these parts:
 
 1. **Import Libraries**: Importing Numpy library to handle scientific calculations like matrix multiplication and Pandas to import data from a .csv file into the code.
 
