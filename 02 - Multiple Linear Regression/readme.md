@@ -9,6 +9,7 @@ This code implements multiple linear regression from scratch in Python. Multiple
 ### Files
 
 - **`multiple_linear_regression.py`**: Python script containing the implementation of multiple linear regression.
+- **`multiple_linear_regression.ipynb`**: iPython note-book script containing the implementation of multiple linear regression.
 - **`Student_Performance.csv`**: Dataset containing student performance data. This dataset was obtained from Kaggle. You can find the dataset and its description using this link (https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression).
 
 ### Different Parts of Code

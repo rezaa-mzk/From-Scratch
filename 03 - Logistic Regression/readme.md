@@ -9,7 +9,7 @@ This code implements logistic regression from scratch in Python. Logistic regres
 ### Files
 
 - **`logistic_regression.py`**: Python script containing the implementation of logistic regression.
-- **`logistic_regression.ipnyb`**: Python note book script containing the implementation of logistic regression.
+- **`logistic_regression.ipynb`**: iPython note-book script containing the implementation of logistic regression.
 
 ### Different Parts of Code
 

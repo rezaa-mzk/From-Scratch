@@ -9,7 +9,7 @@ This repository contains a Python implementation of softmax regression from scra
 ### Files
 
 - **`softmax_regression.py`**: Python script containing the implementation of softmax regression.
-- **`softmax_regression.ipnyb`**: Python Notebook script containing the implementation of softmax regression.
+- **`softmax_regression.ipynb`**: iPython note-book script containing the implementation of softmax regression.
 
 ### Different Parts of Code
 
