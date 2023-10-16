@@ -10,8 +10,8 @@ This Python code implements a Multilayer Perceptron (MLP) from scratch. An MLP i
 
 ## Files
 
-- **`mlp_from_scratch.py`**: Python script containing the implementation of the MLP.
-- **`mlp_from_scratch.ipynp`**: iPython note-book script containing the implementation of the MLP.
+- **`multilayer_perceptron.py`**: Python script containing the implementation of the MLP.
+- **`multilayer_perceptron.ipynp`**: iPython note-book script containing the implementation of the MLP.
 - **`Social_Network_Ads.csv`**: Dataset containing age, estimated salary, and purchase decision information. This dataset has been obtained from [Kaggle](https://www.kaggle.com). You can download this dataset using the link https://www.kaggle.com/datasets/alirezahasannejad/social-network-ads.
 
 ---
