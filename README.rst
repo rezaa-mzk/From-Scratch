@@ -9,19 +9,19 @@ Algorithms Implemented
 ----------------------
 
 1. **Simple Linear Regression:**
-   Implementation of simple linear regression, a foundational algorithm for predicting numerical values based on a single input feature. My implementation showcases my attention to detail and commitment to mastering the basics of machine learning.
+   Implementation of simple linear regression, a foundational algorithm for predicting numerical values based on a single input feature.
 
 2. **Multiple Linear Regression:**
-   Extension to multiple input features, implementing multiple linear regression. This algorithm is vital for real-world predictions where multiple variables influence the outcome. My code reflects my ability to handle complexity and deliver accurate results.
+   Extension to multiple input features, implementing multiple linear regression. This algorithm is vital for real-world predictions where multiple variables influence the outcome.
 
 3. **Logistic Regression:**
-   Implementation of logistic regression, a key algorithm for binary classification tasks. My implementation demonstrates my proficiency in handling classification problems, a fundamental skill for any data scientist.
+   Implementation of logistic regression, a key algorithm for binary classification tasks.
 
 4. **Softmax Regression:**
-   Implementation of softmax regression for multi-class classification problems. This algorithm is essential when data needs to be classified into more than two classes. My implementation highlights my capability to solve diverse and complex problems.
+   Implementation of softmax regression for multi-class classification problems. This algorithm is essential when data needs to be classified into more than two classes.
 
 5. **Multilayer Perceptron (Neural Network):**
-   Implementation of a multilayer perceptron from scratch, delving into the realm of deep learning. This implementation showcases my ambition to explore advanced topics and my determination to grasp intricate concepts.
+   Implementation of a multilayer perceptron from scratch, delving into the realm of deep learning by understandig and implementing Backpropagation from scratch.
 
 Key Highlights
 ---------------
@@ -32,19 +32,17 @@ Key Highlights
 
 - **Clean and Efficient Code:** My implementations are not just correct but also optimized and efficient. I believe in writing code that is not only functional but also maintainable and scalable.
 
-- **Problem-Solving Skills:** Implementing these algorithms has honed my problem-solving skills, enabling me to analyze complex issues and develop systematic solutions—an invaluable trait for a data scientist.
-
 Get in Touch
 ------------
 
-I am excited about the prospect of contributing my skills and knowledge to your team. If you find my portfolio intriguing and would like to discuss potential collaborations or opportunities, please feel free to reach out. You can contact me via email at [your.email@example.com](mailto:your.email@example.com) or connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile).
+I am excited about the prospect of contributing my skills and knowledge to your team. If you find my portfolio intriguing and would like to discuss potential collaborations or opportunities, please feel free to reach out. You can contact me via email at [reza.mzk@gmail.com](mailto:reza.mzk@gmail.com) or connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rezaa-mzk/).
 
 Thank you for considering my portfolio. I look forward to the opportunity to contribute to innovative and impactful projects as a dedicated junior data scientist.
 
 Best Regards,
 
-[Your Name]
-[Your LinkedIn Profile (Optional)]
-[Your Email Address]
+[Reza Mazaheri Kashani]
+[https://www.linkedin.com/in/rezaa-mzk/]
+[reza.mzk@gmail.com]
 # From-Scratch
 Implementing some machine learning model from scratch for educational purposes.
