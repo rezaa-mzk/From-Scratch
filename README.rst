@@ -3,7 +3,7 @@
 Junior Data Scientist Portfolio: Machine Learning Implementations from Scratch
 =============================================================================
 
-Welcome to my Junior Data Scientist portfolio! This repository showcases my dedication and expertise in machine learning, with a focus on implementing fundamental algorithms from scratch. Inspired by the teachings of Andrew Ng in the Machine Learning specialization course on Coursera, I have meticulously crafted implementations for essential algorithms, demonstrating my deep understanding of core concepts and strong coding skills.
+Welcome to my Junior Data Scientist portfolio! This repository showcases my dedication and expertise in machine learning, with a focus on implementing fundamental algorithms from scratch. Inspired by the teachings of `Andrew Ng in the Machine Learning specialization <https://www.coursera.org/specializations/machine-learning-introduction?>`_ course on Coursera, I have meticulously crafted implementations for essential algorithms, demonstrating my deep understanding of core concepts and strong coding skills.
 
 Algorithms Implemented
 ----------------------
@@ -35,14 +35,14 @@ Key Highlights
 Get in Touch
 ------------
 
-I am excited about the prospect of contributing my skills and knowledge to your team. If you find my portfolio intriguing and would like to discuss potential collaborations or opportunities, please feel free to reach out. You can contact me via email at [reza.mzk@gmail.com](mailto:reza.mzk@gmail.com) or connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rezaa-mzk/).
+I am excited about the prospect of contributing my skills and knowledge to your team. If you find my portfolio intriguing and would like to discuss potential collaborations or opportunities, please feel free to reach out. You can contact me via email at reza.mzk@gmail.com or connect with me on LinkedIn: `LinkedIn Profile <https://www.linkedin.com/in/rezaa-mzk/>`_.
 
 Thank you for considering my portfolio. I look forward to the opportunity to contribute to innovative and impactful projects as a dedicated junior data scientist.
 
 Best Regards,
 
-[Reza Mazaheri Kashani]
-[https://www.linkedin.com/in/rezaa-mzk/]
-[reza.mzk@gmail.com]
-# From-Scratch
-Implementing some machine learning model from scratch for educational purposes.
+| Reza Mazaheri Kashani
+| https://www.linkedin.com/in/rezaa-mzk/
+| reza.mzk@gmail.com
+| # From-Scratch
+| Implementing some machine learning model from scratch for educational purposes.
