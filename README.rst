@@ -24,7 +24,7 @@ Algorithms Implemented
    Implementation of a multilayer perceptron from scratch, delving into the realm of deep learning by understandig and implementing Backpropagation from scratch.
    
 6. **Decision Tree Classification:**
-Implementation of a Decision Tree algorithm from scratch, a widley used algorithm with intresting data structures and complexities like the vast number of helper functions and tree data strucure.
+   Implementation of a Decision Tree algorithm from scratch, a widley used algorithm with intresting data structures and complexities like the vast number of helper functions and tree data strucure.
     
 Key Highlights
 ---------------
