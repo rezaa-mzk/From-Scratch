@@ -21,15 +21,21 @@ Algorithms Implemented
    Implementation of softmax regression for multi-class classification problems. This algorithm is essential when data needs to be classified into more than two classes.
 
 5. **Multilayer Perceptron (Neural Network):**
-   Implementation of a multilayer perceptron from scratch, delving into the realm of deep learning by understandig and implementing Backpropagation from scratch.
+   Implementation of a multilayer perceptron from scratch, delving into the realm of deep learning by understanding and implementing Backpropagation from scratch.
    
 6. **Decision Tree Classification:**
-   Implementation of a Decision Tree algorithm from scratch, a widley used algorithm with intresting data structures and complexities like the vast number of helper functions and tree data strucure.
-    
+   Implementation of a Decision Tree algorithm from scratch, a widely used algorithm with interesting data structures and complexities like the vast number of helper functions and tree data structure.
+
+7. **K-means Clustering:**
+   Implementation of the K-means clustering algorithm, a very popular unsupervised learning algorithm to divide datasets into different clusters with high homogeneity and completeness. 
+
+   - A clustering result satisfies homogeneity if all of its clusters contain only data points that are members of a single class.
+   - A clustering result satisfies completeness if all the data points that are members of a given class are elements of the same cluster.
+
 Key Highlights
 ---------------
 
-- **Deep Understanding:** I have invested substantial time understanding the mathematical foundations and intricacies of these algorithms, enabling me to create robust implementations.
+- **Deep Understanding:** I have invested substantial time in understanding the mathematical foundations and intricacies of these algorithms, enabling me to create robust implementations.
 
 - **Passionate Learner:** My passion for machine learning drives me to explore complex algorithms, ensuring my continuous growth and adaptability in the ever-evolving field of data science.
 
@@ -47,5 +53,3 @@ Best Regards,
 | Reza Mazaheri Kashani
 | https://www.linkedin.com/in/rezaa-mzk/
 | reza.mzk@gmail.com
-| # From-Scratch
-| Implementing some machine learning model from scratch for educational purposes.
